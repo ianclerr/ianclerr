@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Ian Cler Renaud, Aspirante a Programador Full Stack
 
-¡Bienvenido/a a mi espacio en GitHub! 🚀 Soy un/a entusiasta del desarrollo web que aspira a convertirse en un Programador Full Stack. Mi enfoque actual es aprender continuamente y colaborar en proyectos emocionantes para expandir mis habilidades y conocimientos.
+¡Bienvenido/a a mi espacio en GitHub! 🚀 Soy un entusiasta del desarrollo web que aspira a convertirse en un Programador Full Stack. Mi enfoque actual es aprender continuamente y colaborar en proyectos emocionantes para expandir mis habilidades y conocimientos.
 
 ## Tecnologías y Herramientas 🛠️
 
@@ -24,7 +24,7 @@
 
 ## Contacto 📬
 
-¡Estoy siempre abierto/a a nuevas oportunidades y colaboraciones! Puedes contactarme a través de:
+¡Estoy siempre abierto a nuevas oportunidades y colaboraciones! Puedes contactarme a través de:
 
 - [LinkedIn](https://www.linkedin.com/in/ian-cler-b392322a6/) 🌐
 - [Correo Electrónico](mailto:clerrenaud.ian@gmail.com) 📧
