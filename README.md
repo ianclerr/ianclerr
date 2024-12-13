@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Ian Cler Renaud, Aspirante a Programador Full Stack
 
-¡Bienvenido/a a mi espacio en GitHub!. Tengo 17 años. 🚀 Soy un entusiasta del desarrollo web que aspira a convertirse en un Programador Full Stack. Mi enfoque actual es aprender continuamente y colaborar en proyectos emocionantes para expandir mis habilidades y conocimientos.
+¡Bienvenido/a a mi espacio en GitHub!. Tengo 18 años. 🚀 Soy un entusiasta del desarrollo web que aspira a convertirse en un Programador Full Stack. Mi enfoque actual es aprender continuamente y colaborar en proyectos emocionantes para expandir mis habilidades y conocimientos.
 
 ## Tecnologías y Herramientas 🛠️
 
