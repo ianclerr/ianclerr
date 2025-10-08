@@ -26,6 +26,8 @@ Me destaco por entregar resultados reales: diseño sistemas robustos, escalables
 
 ⚛️ React (Frontend)
 
+⚛️ Next.js (Frontend)
+
 🛠️ Herramientas y Entornos
 
 🌿 Git, 🔧 GitLab
