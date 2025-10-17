@@ -1,6 +1,6 @@
 Hola, soy Ian! 👋
 
-💼 Desarrollador Full Stack apasionado por crear soluciones que ayudan a empresas a automatizar sus sistemas y optimizar procesos para lograr mayor eficiencia y productividad.
+💼 Mid-Level Developer apasionado por crear soluciones que ayudan a empresas a automatizar sus sistemas y optimizar procesos para lograr mayor eficiencia y productividad.
 
 Me destaco por entregar resultados reales: diseño sistemas robustos, escalables y bien estructurados, siempre orientados a reducir costos, mejorar tiempos y potenciar el crecimiento empresarial. Trabajo con metodologías modernas y buenas prácticas para asegurar que cada proyecto sea confiable, mantenible y listo para evolucionar.
 
