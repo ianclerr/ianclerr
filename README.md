@@ -1,47 +1,39 @@
-Hola, soy Ian! 👋
+Hi, I’m Ian! 👋
 
-💼 Mid-Level Developer apasionado por crear soluciones que ayudan a empresas a automatizar sus sistemas y optimizar procesos para lograr mayor eficiencia y productividad.
+💼 Mid-Level Developer passionate about creating solutions that help businesses automate their systems and optimize processes for greater efficiency and productivity.
 
-Me destaco por entregar resultados reales: diseño sistemas robustos, escalables y bien estructurados, siempre orientados a reducir costos, mejorar tiempos y potenciar el crecimiento empresarial. Trabajo con metodologías modernas y buenas prácticas para asegurar que cada proyecto sea confiable, mantenible y listo para evolucionar.
+I stand out for delivering real results: I design robust, scalable, and well-structured systems, always focused on reducing costs, improving timelines, and boosting business growth. I work with modern methodologies and best practices to ensure every project is reliable, maintainable, and ready to evolve. I also have hands-on experience integrating AI models and large language models (LLMs) like GPT and Claude into web applications to enhance functionality and automation.
 
-🚀 Habilidades y Tecnologías 🛠️
+🚀 Skills & Technologies 🛠️
 
-💻 Lenguajes de Programación
-
+💻 Programming Languages
 🎨 HTML, CSS, JavaScript (Node.js, Express.js)
-
 🐘 PHP, 🐍 Python
 
-🗃️ Bases de Datos
-
+🗃️ Databases
 🐬 MySQL, 🐘 PostgreSQL
 
-🔌 APIs y Frameworks
-
-🌐 API Rest
-
+🔌 APIs & Frameworks
+🌐 REST API
 ⚡ FastAPI
-
 🚀 Laravel, Node.js, Express.js
-
 ⚛️ React (Frontend)
-
 ⚛️ Next.js (Frontend)
 
-🛠️ Herramientas y Entornos
+🤖 AI & LLMs
+🧠 GPT (via API), Claude, AI model integration
 
+🛠️ Tools & Environments
 🌿 Git, 🔧 GitLab
-
 🐳 Docker
-
 🐧 Linux
 
-🏗️ Proyectos 📂
+🏗️ Projects 📂
 
-En este repositorio encontrarás proyectos que muestran mi pasión por el desarrollo, mi compromiso con la calidad y mi habilidad para resolver problemas de manera creativa y eficiente.
+In this repository, you’ll find projects that demonstrate my passion for development, commitment to quality, and ability to solve problems creatively and efficiently, including integrations with AI models and LLMs to enhance automation and user experiences.
 
-📬 Conecta conmigo 🤝
+📬 Connect with me 🤝
 
 📧 clerrenaud.ian@gmail.com
 
-¡Gracias por visitar mi perfil! 🎉🚀
+Thanks for visiting my profile! 🎉🚀
