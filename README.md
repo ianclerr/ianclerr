@@ -61,35 +61,6 @@ I have hands-on experience integrating **AI models and LLMs** (GPT, Claude) into
 
 ---
 
-## 🚀 Featured project
-
-### DataHarvest Pipeline
-
-> Production-grade data scraping pipeline built with Node.js + TypeScript
-
-A 4-layer decoupled architecture — Scheduler → Scraper Workers → Transformer → Persister — communicating exclusively through BullMQ queues. Includes retry policies with exponential backoff, Dead Letter Queue, idempotent UPSERT, and real-time CDC via Server-Sent Events.
-
-**Stack:** Node.js · TypeScript · PostgreSQL · Redis · BullMQ · Docker
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Ian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IanCler&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IanCler&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9)
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:6366f1&height=120&section=footer" />
