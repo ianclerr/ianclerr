@@ -1,16 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=200&section=header&text=Ian%20Cler%20Renaud&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer&descAlignY=58&descSize=20&descColor=c4b5fd" />
-</div>
-<div align="center">
 
 </div>
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/clerrenaud.ian@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:clerrenaud.ian@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 
 </div>
 
@@ -18,9 +14,9 @@
 
 ## 👋 About me
 
-Mid-Level Backend Developer focused on building systems that **automate processes** and **optimize business operations**. I design robust, scalable pipelines — from data ingestion to REST APIs — with clean architecture and production-grade practices.
+Mid-Level Backend Developer passionate about building systems that **automate processes** and **optimize business operations**. I design robust, scalable architectures — from data pipelines to REST APIs — with clean code and production-grade practices.
 
-I have hands-on experience integrating **AI models and LLMs** (GPT, Claude) into real applications, and I care about writing code that's maintainable, reliable, and ready to grow.
+I have hands-on experience integrating **AI models and LLMs** (GPT, Claude) into real applications, and I care about writing code that is maintainable, reliable, and ready to grow.
 
 ---
 
@@ -61,6 +57,14 @@ I have hands-on experience integrating **AI models and LLMs** (GPT, Claude) into
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+
+---
+
+## 📬 Contact
+
+Have a project in mind or want to work together? Reach out.
+
+[![Email](https://img.shields.io/badge/clerrenaud.ian@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:clerrenaud.ian@gmail.com)
 
 ---
 
