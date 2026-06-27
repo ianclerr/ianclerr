@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=200&section=header&text=Ian%20Cler&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer&descAlignY=58&descSize=20&descColor=c4b5fd" />
+<img src="https://capsule-render.vercel.app/api?<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=200&section=header&text=Ian%20Cler%20Renaud&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer&descAlignY=58&descSize=20&descColor=c4b5fd" />
+</div>
+<div align="center">
 
 </div>
 
